@@ -4,9 +4,9 @@
 - refer to [AOSP](https://source.android.com/docs/setup/start/requirements)
 
 ## Build
-1. Initialise repo with [RisingOS](https://github.com/RisingTechOSS/android) source code.
+1. Initialise repo with LineageOS-based source code. e.g.
     ```
-    repo init -u https://github.com/RisingTechOSS/android -b fourteen --git-lfs --depth=1
+    repo init -u https://github.com/LineageOS/android -b lineage-21 --git-lfs --depth=1
     ```
 
 2. Clone [local_manifests](https://github.com/Project-Anfangx/local_manifests)
