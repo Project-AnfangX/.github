@@ -1,4 +1,4 @@
-# Build RisingOS 14
+# Build Android 14 for CC9Pro
 
 ## Prerequisites
 - refer to [AOSP](https://source.android.com/docs/setup/start/requirements)
